@@ -1,0 +1,317 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : FEN_Fiche
+ major_version : 28
+ minor_version : 0
+ type : 2
+ description : Fiche d'un contact
+ subtype : 0
+window :
+ name : FEN_Fiche
+ identifier : 0x28c4eb863893d573
+ internal_properties : CAAAAAgAAAAkGvQcWzAKtmJedxoSiBcJ8nS1HBSCx9dpDnIjC1dfY4aomBHyq2FefmlX2cadYCk58yKXElaadbMB7Dkimw8HlJpz7dFf/aX3MEfUBWV6vAySAtWTgaFClCLuEw5BZPDxaNP6kg8EFxxz+EJdvGrQW9u81ax4Sx1MS99CZmVLiEKlc7oXLw8NCSh31pfpLZkUvNKb6pB1KTmVilh+nj6Y0RJuR2InH2BfX2rjhjlt7C7B/4s3dlKVkUDrsOXvu386U/88my0stThwFfTg9q2o74BBWdG7wNQLBm8hGBr8zL6FkrXv2cMFMN4HR/O8yEmCe0zlSWgiiyuuZoxlBKQOyPylhQf3QnrbENGr4/vwCLUvtEbS/bLFkdbFXMXFx7EXF9QL1+ORVtIDdgbyt3MqFn0dEiTzSWZ0faxnU80BcDqKyUqxlrAAmlKRqdNTRO0xdk+QG+yyUE3tdHb5qXvIL7/s5E4QbcmuRg9qM/jEnlsUYIKvgueYZvnj65iaoj0yVgU36MGmEnWM86j/ZySP4KzrfL9jSeUnUVSv7lxbcgm3m2j6tGlISBBvalkFdqNxjXAp+3DYzGLnYmGAKASLuSXU7tY8WEvAKu1ycUHKryRgNTZSI7FZU8kPx5pAVY+wlZlqIhp2pXjceW9+hFFGS3003bBToajGajfoiMKdDL+naIcpPrbSRpuNBSomAgMfYJra7yASKs65i+yrJg9h+qaTySYX5dmbUn8ZrQG2cnlTgwPo4X1PflppUYMT1X8VkZr37c5ohCIULIEMbT6DMPMXDqNppJ9QFlC4DoQVxUK3cc71yXxeBA==
+ properties :
+  width : 494
+  height : 194
+  widthClient : 492
+  heightClient : 162
+ controls :
+  -
+    name : Saisie_Nom_Contact
+    identifier : 0x28c4eb863895d573
+    internal_properties : CAAAAAgAAADRWrfULW/nMFs8U62n6ROjAkYSdxYT9U5rhyx9tvPIpn1VOBtfyZrz+Z2pnaI64NkhjfDFYQihq1BSoyxJhPP2/2Hqzfqk1EWdSt0VoqrENOw5vs5MOHSAICuxuszupRDMJk2Uf6rOcUfkQjZLTckS5biFf7gIfSg7O2Dy3Y0hLtNLXFvI3/10vnY+ZDrskYdO3XiJr6d6R5FkBaR9OG95rDDqJV77KJAu0CdWPNB69B53jIZ+71PpwaB8rO1joITb5L9KB0T+2/gN2kVLX1dbJKO+D6GxwpTU/5mjSZ/Um8C9HdB+RqY9zI9xK1K+FEQ5RregSyMOUKkhEcpNMDO3WCIQefBk5/8fDO0Djv9xwr5TZiymc251PPFkYllXu93RUiRkiivURGjbkkUMcC2yVFdBNfm3TXVdzILVqvTL+XEGQLcXynI54KVnvH/eAxNebEsWDfpbL42l9j55M3M6TooWaNVxUXpzCOvmUOTBDZYzAcH3o1vFTHyirxcAM0b2wvO7/5RyG9e6rqcwnMCov4nAaTgGuWDpzbPLXweziLrfS51PFrNsURZpRTLZg9QlPKHu9gxn+ktn2Dtqn4X1TJhQ8p+PIdtO608gWcmGDrtDDgjcdJbjI9+gPHz5tgzSS/zirlvrvuf15Q7iffjnFUfioe082gPW4XsmfBf3VZqq+IwDbhdSdcEZVUcbK9v9dSsMewda1jhsHVDOXJ2UxPt/Ulwr1xTUm337wckQ68jhxFuBoK6ZddjOtGet4X7ltL2CaMQ5p72dGMudSzDaLPU9KMMh2AHf3vXFv7/tw2KiqY2qwSWcq6a8+9Sm/w9hDcinyvenSjEtRRyjfkuOYkj9QDwoWT3nirl3HyX7r5nxSMY4RoAmHQXcy4Ex5WYLSpfxBjFkY2tOu2+lsg7pcHMzNSwRM3KGxFQpg9ZVk+IPNz4xcZqeY9xxddq7E9oMQ5SCt/g5dAlqoh57wc9OuEKhL0OK17LsFGlJi9BJJw6piRjfRBDfwVf+y9JpYeVgkOOjxiCIawqnOuf8NuVCuYsXhfIS8DtrnnEoGT8zqGGx/Uew94pX/+OWHQUTW6ojOokPC86gAOm+29yKZ366ZLwLUY7toNDFO0T363KSuQZHkxtCe//fQcIOcQSCssRV
+    properties :
+     x : 6
+     y : 6
+     width : 399
+     height : 24
+    type : 2
+    code_elements :
+     type_code : 3
+     p_codes :
+      -
+        type : 276
+        enabled : false
+      -
+        type : 277
+        enabled : false
+      -
+        type : 278
+        enabled : false
+  -
+    name : Saisie_Nom_Contact1
+    identifier : 0x28c4eb863896d573
+    internal_properties : CAAAAAgAAADdfBt89aBRrn0LzPnfgtWT4vsaOLpUJKvVVRqe+ksR0JGaXFKiWpQKlYNCQkX0rRoQ9CY0puwkdTuD1lfvkkkCdS+fUjK9VzmLxzwEPwZDplGv41KlwJx3kH+fhZ8IN0VVSMEbNt5v3SdprrRbh0CxHCDjm6ULEMRcIZQM2xvE1fLk+qk2jBG46+SB6jpaJkOwCGE5FjrirHthGXoSBqSYE6aQ8N9VcxhLFzmcDPBg6CrDsAamEY8JetfpLKrIGECbXR9HpWEvuSoaA+LN/rq0yVAWDjYGr4Kcc13DjhtkBLILXqD9IPZlRwzNXYHDASa80+nyOybrisQwzlhjZANqAng2xSx8qNuYBOKTtqvGCnR3XcN357gON2fO+rLVskJRSyXlEwY9iqrZE8EV5/CGTXltT19Xld63pLunNm9jf8rC4F41qZkMePjFpU6R7fgTrozvvNF2lgMQthrL/1jIJOhR0Lb7suu9gqR4Jb93Gqpkoig5+nSoQh0+HkYirnaSrh9ek2R9w4r82m4XeMlhAoIxq/X6LceKu+bff+5Vi0Awy9Vg6QOQsRgLWf0K2E1+9pNgNMMkZ+4fSy1t4bjPejcFI9+TAdLfj8wecIIoAoPeEVr+JjxqTaVDR7cnCDSSQFhO62BBO4FS/UM+ptR14VQQfvOlbhAiFPXJKZwRDp3eRUBgvWTPjso3CT12rKMRimFk8jloLSFqweQiMTzIwAogQMTvi+qSk5iFywpX+4BqfpD1KNqQWHFafEqzGnAKyxCiBG9OgV5hL0s8qTMWzN3eBYkHiuzmNDBYg48MT527mxcifMc28BydadeqDtQQMzdc//qYT2r5EhED/Q+TJKy726l/mSMREY/FoOnvrxvxlj/LdYUsiOsPQLo5SjdGPJ4afKbPaNgYAElvVe3uyMdDTSX/+fxmFR5IMDQKgyYLdGM611agxcXzaJX2fcA//lMzdV6v+SUevFHWZ0feayRaeKjPYzFUoIDk0z/d3RtYNKj1C3NUSKHKbaav+BffhFLR89Q8gQDDWenMCwlTTSsrNo7fSJ1hbgB4qQskR6Dd0oaXl2LM3P48jTmC4WfD2k6wqeROqblRc7qiFmvLH58mfOCcHbhiZDBxR8/EwFFWaXTil8/V4to7SgFdbbwLelvdHSy8TQ==
+    properties :
+     x : 6
+     y : 36
+     width : 399
+     height : 24
+    type : 2
+    code_elements :
+     type_code : 3
+     p_codes :
+      -
+        type : 276
+        enabled : false
+      -
+        type : 277
+        enabled : false
+      -
+        type : 278
+        enabled : false
+  -
+    name : Saisie_Nom_Contact2
+    identifier : 0x28c4eb863897d573
+    internal_properties : CAAAAAgAAACCw1YE8bHGG6D133KNt72tLkmDb2A2JADJBDiCD33+ZoHYPNcg4RrRRPKLeETj1NBWCrs42dInej+vBQpLi0IuCk5p7EHVRzBlzectybFKFDbghEKoECMweyUNwNFcUhCXjAoMLG710nVXpMM0trTc1qsd+AHR9UpLaZJgrg2KmoXDUc5B5Jwbqok4Ypiculwe5HJOs014c8n94mLONB7KhblWP+wWWZTUv+YIxebxAlwT5GQ/AMtsfnMhytT9rGgL6U6Z83cezpnM7ISmzxU58J7AA7oIDn/eKPzna3O6xBjhTlzW08BlHjXO2cxlg6JXEeWLOSIRQ+KtltCBVt5ozM2YGpBrVHooDsuPD7OIGzf5ReVtznkfGHqxi4RAa8+377vGISmfKyclHfBQnJRtFY4j7xQYdhvC7bzmxpGQQq4uIRGBEiQ1XoTUYV+kZXO/WjAR7PichX2zvxa0xnw9n+AJumpSPR8fg4w5quYSsqr1syffXSH2SWmIYw95KQpYalQ0Jm0zFyZcdOzvGPHY+8WeUsOvLYiY9qoCv3T/aJRLPamXpQ1+v3arbNk/1PLfV/bo2c7MCfVPQQJYnNN90NZRkrha1sVW2Bak8RApiLL9eUayzKlczdGsMK6P4b/dtNLqDlbBXD5zDIS+NbGHBk/K/eH1OYIujS8SwAXS7hlxUrNn8yhFW3V/x7pbbRLbxsyqfFWi1NvS+8UDZMS7jkD+rvfNA/ZSa4LjE/dIwyT2asoLf7llYGnJbZY8ebf4FSrx2iKFvWbK8KOpZMM2MuiqivI7epN6tNGvouYhPzE3bvP1+/gG3iYX/wC0YdO1YIreYobLANrIQXvKvGyYKU1qFNNwRaIe9s5X4v8bHRz+o2BarPO9UOuWiXMkRs/Ah4nvV2KIw7ejGXPEHwfGDksacgdXOnjhRE6I5PFMwAXPW4/Uu6EDqi4qEOgGzlaZUCbz+7FKNWHEHBy1IenWWD3MPTE277hbZnwc6E82HIcjFYGyvgQFZM//SSikchPcVquRHWZpfw/iLklGzc9RTm9a/iaXBknL560OrHX1Ay7MiwcpMEYchOlT7jAIBfUDh8pqsglrRS38louSvxV5OAAP68gddj04RNEAF70sk3kIm1ILG2HdIA86kx0zb2shvi2Rvf5qq0gHpK8Bau0iZagFQ/kbxgB4DobgWDUWvdSmCECLoPIA5sWjWBG2
+    properties :
+     x : 6
+     y : 66
+     width : 397
+     height : 24
+    type : 2
+    code_elements :
+     type_code : 3
+     p_codes :
+      -
+        type : 276
+        enabled : false
+      -
+        type : 277
+        enabled : false
+      -
+        type : 278
+        enabled : false
+  -
+    name : Saisie_Adresse_IP
+    identifier : 0x28c4eb863898d573
+    internal_properties : CAAAAAgAAABp8CRdBNuLGlBWilzIyFEGI/xX5Fau0CJO9UNrfxVQmyMZRW8M4MH5qBDcLb/yGe+B+ndAaptcrp3xuPGYpDBFStFIsGIf5VBy0FN5suoKKDvpiWp9p3g/p/qkj9LpWqpRYh+nCW/GicZa6WRtleZ3zwW9L4mZFx+jm3KXmgNdcUF9c1KVS5fpYMUsQOVaQzWUWX4+QdsbmxgfDUVO+zdTC2Ua/Kvzy3az3yYvM5WbQjzJv+QqSBTWe6HSBaEZdddnOJNtPYMIi2BTyAUpzkILO0Zu7ZcZufNH8onlDKo/UDqH4ZJ/e1ujLQiNfyHOAvJvWKNHel5haiPMIwnujMqL45xQGZVNHxhpojOVclq1bkH77oZrAOexhuciOerqQUEy/MdhjUVepuOG18UswDV45bgy2h6MflzNyNp8QM+lp9D9dn/xmBcbmeakWaPIG6jaMblBs2sLFkk0ztqJgXotfG0TtWVRbvGEoKtXQi6NAdsUkK/1TR17/QOWEEw4FngWIhUD23Xmtc1UhhK4xHlOWzVp99TCWJ8p5zz2Tm8/08ekLjDC3ZHa5KZ7c4/YkhaOHCFAwxJJR3of+tPxTXrl9Hgdi2NcZLdJPyEkDOB2PvG717Y5jQ38FSEQK0TBu3bYqsgmK+q1cKhgd85s2reX9DbtJWrVm9o4+PaJ2Bnr5m+X8D+FMuy89l9Fg6NJbQiv0xb9OCvfn/eAHuHZiu4h7V6TUmwWZW3VZtWJOLyun74yhRiQ7nqdbOVIv4BlZvOPLCqSLG8nA0lgiTDEruwBSbVaV1acks6ft8+HCMQJqKhZ6TGWUVVODDwoEfSu+VTPwmpfeR2Ak7Zn8k+ColekPP2H3wS1Qlwn6u1fPWaVx+Gpactv6XLKvJ6ujbnNqs5SBCsoLEBKR6tSp/xL9w7WsTKgtWRQUbLxIjAk+yLi8WieLhg7Bh50glZo3lfEnOdnQb87+PKBtBnSz3BNcNJNNo0pxSlBVk7p9AE78SU/MOoPKyJAqGfhsqB1wRm8dSdnEQdlBnvBtKzUDIcyBGMpnzWqHsvm2rAXAIbRG+683lDgfgmiEy+mqPvZEuXIt42CA52v5mBglHTw6bVeW+aRCQ1lHRQImjeJZfJJm0KUhh4TrPGcap7zMmpaWw+I4TUhefquE6Hecxrk6/3ymLlqe8UVzF2GLLBvauY=
+    properties :
+     x : 6
+     y : 96
+     width : 288
+     height : 24
+    type : 2
+    code_elements :
+     type_code : 3
+     p_codes :
+      -
+        type : 276
+        enabled : false
+      -
+        type : 277
+        enabled : false
+      -
+        type : 278
+        enabled : false
+  -
+    name : OK
+    identifier : 0x28c4eb863899d573
+    internal_properties : CAAAAAgAAAB7SI0BOoVXELZ9AZ9sK/dJCZS0UBKRsrVNhXNMg3GdIiThixIUmIs7FZWOgz11NS7Drx9hcOXKS7Y8ZCZwVC7sn6C3iQdXMyopEMf/RK1ESivE726E7gzGyX+3UANTX62AKuLOZ+NFh9ETBVVEKszf0Vr4KszhV3wNxbeYVCV01S2UUdyN/TQYbnKTnJPHeA9PxYvLWPnKTmFnKKkxI6Igk9SLGVoPmTJFEpzM683Aiau9d3k3krQ3PtUsRxCyBYIPFOyK5Pz6swRu2wEk/pGwodtpEJq5FVqhGtJjwaOuU76JgMPW/OW0XhFiSOn39u2WzowYbrZIkR5oRCWZsN7AUUT23gVYNnsv+mBlQieuWyBL2GU6iDq4wmDiWQWzjkjGiS8eNdHXTzvpxb4LmgqL/qhJkY9tJ1NqeXfi4vq56Wp91xNyV8HVhnEpHLyptOQQyyMHb5yoDiJSBhXCpAQJbeYfsfTbpwvKcU718vVz7e+UJUX9fps28XSZQ9Akv2CsnO98JO8nLv008NDMvQNe/XCa0gWV/2sNaa24DS+ud4xu/oqU35amYNMeykQ0G6P8SUd13XIkQytk1HpGxs7nMG+TIY2op2MmoS5yYbadtA/VqbVKUi7Qtau172VX8peQgwGq9oiVCIg694Wqx5W/jrloATqK9b5g96knGgl4uScR25v0AWm1GGJSy64e1qIdl5ncZhs9AcI1m/Nm1uyhdp6kHU+IMDFu+WMWgqt9ZVtKwm+aHjU/xe1kthMKk9ROeoxjFLCR3YiJCUxtGlF3OsyUgBs+2IPlbvE8XAgF5n7fIdQ0GuMkWhnGAfsE8n0inTN2kl3wl9vX0eeihvrPVNybvTOH/PKJauE5gN1y9Q==
+    properties :
+     x : 411
+     y : 6
+     width : 75
+     height : 23
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1-
+         // On récupère le contenu de la fichier
+         EcranVersFichier(FEN_Fiche,CONTACT)
+         
+         // C'est soit une adresse IP soit un nom DNS
+         SI Saisie_Adresse_IP~="" et Saisie_Adresse_DNS~="" ALORS
+         	Info(<§$0000§>)
+         	RepriseSaisie(Saisie_Adresse_IP)
+         FIN
+         
+         // On vérifie qu'une adresse IP est spécifiée
+         SI Saisie_Adresse_DNS~="" et (Saisie_Adresse_IP~="" ou Position(Saisie_Adresse_IP,".")<1) alors
+         	Info(<§$0002§>)
+         	RepriseSaisie(Saisie_Adresse_IP)
+         FIN
+         
+         // On vérifie qu'un nom de contact est spécifié
+         Si Saisie_Nom_Contact~="" alors
+         	Info(<§$0003§>)
+         	RepriseSaisie(Saisie_Nom_Contact)
+         FIN
+         
+         // Modification ou création d'un contact ?
+         SI gnIdContact = 0 alors
+         	// Mode création d'un contact
+         	HAjoute(CONTACT)
+         	SI ErreurDétectée alors
+         		// Erreur lors de l'ajout du contact
+         		Erreur(<§$0004§>,HErreurInfo())
+         		// On retourne dans la fiche
+         		RETOUR
+         	FIN
+         SINON
+         	// Mode modification d'un contact
+         	hmodifie(CONTACT)
+         	SI ErreurDétectée alors		
+         		// Erreur lors de l'ajout du contact
+         		Erreur(<§$0005§>,HErreurInfo())		
+         		// On retourne dans la fiche
+         		RETOUR
+         	FIN
+         FIN
+         
+         // Message de confirmation
+         INfo(<§$0006§>)
+         
+         // Fermeture de la fenêtre
+         Ferme("", vrai)
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : Annuler1
+    identifier : 0x28c4eb86389ad573
+    internal_properties : CAAAAAgAAAD4geW0Ai2+EAFtfua3ilOjKqIOBEMWUyZNU4njHNhUF/o8aXYn5r1vdt2D/XhDewwcr+Ixv5jLN/09qzWBXDkDZjwm1Z+I8X/AqZNRa8a7CVsr5LlgOeuuZ4h20TuOO5i+t07ovhbioVhr3cxARvhirjl+jJVrnV/MaSRxLVxKSI/xdOABXeM9KLzwHP33VXbw+qv1viqt9n3tI0EB55fcJRRQdnCtf1Nw6oYfTQoRrhsswDdxRhBIuX/PugDbVy1tZtccdMTdlW006jlnIoZpoAG39Z9927QPOFb9XRcbLYkt4QF7VMLeYvfZ4kve3GWm6P0G3htiTxfGeVoSC+xDknluyQGwdmSvMKZpxlP4F9t3cxut/1lYW4aZgyS+vaUCwc0pX05sMfaxNL2ghmQCBWg4CJdGM/rBpx0THFNLYnEFQ4AcYD8blalUZONxEZGemcPle7poj+o7q/OyHx/koJKPfIwk8itIS0XVwhflVNBkf5D6GGx14hi5zxMTsVEO/GSQC7ShujoP1n09YYMGU0rrWYZt6GGyuR1gtjGbtkTwvhThT7uxXAQRHUsRBRGRtbb6nGWjer+c7qwhnRSkXlAe0lNFxgESvi4+UHDaR46fQsCVeNlwrPGurYZG+PndRuufj1QrXfPpFNywZkQBpxic84xXFrY78yDHZ+LmSrCLL0G3e8pE7WCuetTxRohIkmb32XPw24NjTm/hSxVD1mx17N8GUEs2R/tI3xHa2w+nSsH+SksUt076cXh7Om609tZImbF2jCl3c0JD1GRMok7P4VgjlIXiHNM/ylASWiKiGYmj/KxdzyVAVJO9uLJ3v3N1yEdcdqnFFpMXiIBjjBeIxo1fFaqZrnh5QfUP
+    properties :
+     x : 411
+     y : 35
+     width : 75
+     height : 23
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1+
+         // Fermeture de la fenêtre de contact
+         Ferme("", faux)
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : Saisie_Adresse_DNS
+    identifier : 0x28c4eb86389bd573
+    internal_properties : CAAAAAgAAACarYlpOm8/kLMMm7UagZsNXBgyKd3g8z2U/ruFXL53e/RmY5a4a/z3RTjXaxoIo53lEdTpBfytp1y0O3b76VLw95tVQK+awczq8AReazTiKx2IVTqnMhznYPDkVopTYKZvGnxF6LnFHSYjafxKQBtR8o4/GtNxPOmmRmf3m+3Nbivteo3r4enSBhHHUqYVA8QojBHpTELH/YIqh91DqVIwEUEgf8wuj1Tbi6UpQCdsldTtZbd0Eymh/lLZwFxQ+fDyUC5ivhae3nXR4f4f+KgiBnkBad40BKEStFLk9zLoXc1TZu9kM4Jf8NGayTHxiMRzm0ebePYGSNzCIPdobNmp7HYOmLjifMeLYtM6rerAaru5Z5Mq9gTtNNlI56MNRI9NSD2DkVtq6FnF+i8H4x1XhPLW2y7UA772xRmBnWe072H1jf94EeWxTPY5kbiUQC4DsbIpOLUIT+1wORLW6QnttB1rKJ2YIN3em+y2+5ph1JP6MMg245p0DbdXOyVcsCJjLd+C4oXGclC1v4F5ExeR8QcoH/2X6HLtFshvgOJwu9lFXoZe9ImjQTQS16RrkDmpGZKEbHLn7q2Gmxs2H2HnkjysgMGAyHjocl2nGK8QyBzS2wSzvLCnwsdCWTVXvQbcvu+p29vTE2dpYbpGb4AvM2eCBYl48kBpFA5biZR4/GE9R54ZgNKX55cy5f22z1tlicFvtIPeqaFUehDXi1uDPXohaTqhSgAKRuS4Pj9e8cphnHn/n9/3qitpYIKeWAndOzIIRTCfpaTyNWIaTMGZ7Twn32K+CauZvC3q30Z8moVh7LZg+kmJOdR2KpB9HPc3j1q4sqV1czOWe2jMT6IeSAVjAOVfQohX5uZACEUZDKVHJhpRTyt8qw9/NWFyvqbzc0y42StW4GaqXk+YOVFrO8K1SQskhzpOGVtakScH94AvxcrMVIQpIvDPPTL4Ytf8fzs9W8Uiv9HR5t+2FxxoQwgeYZAfWsu5S2ZmVIvzBm0inbIhO1n+yPOI/z6/RU71TsGRfbjgmzf6UMSNKnm8N5GaK1DC6JgY2ri7K7q7UHMrVuWgSXRT+++iCSn/d0ZffkbAROW5GuvcoWY81YBw+IpJ9SLQrsgvG+2OaHdH8M2oDJSe5xsDvQYKnRDI94+e
+    properties :
+     x : 6
+     y : 126
+     width : 397
+     height : 24
+    type : 2
+    code_elements :
+     type_code : 3
+     p_codes :
+      -
+        type : 276
+        enabled : false
+      -
+        type : 277
+        enabled : false
+      -
+        type : 278
+        enabled : false
+  -
+    name : Libellé1
+    identifier : 0x28c4eb86389cd573
+    internal_properties : CAAAAAgAAABt79f7P+OleOGfuDV1QcRBPRN85bwokv7qcgvpKXAZr1hJzQmVEW2a+yorfq+mJhYUWZHcD9zbeOiDKDaYxcYLdSQqfANV9NBRVrWNbZRmUz9FY5+R1FQqLJbcyYQuOfnh0sGBWPtaup/9C1KwPJG8amHMGtZEadzPBNJ1Y7A/K1ECQDMwPU2Jm7frpCEK/OP2CDjQQtJaH4utCfaGYfaHjgumRdRCI9UR6cyePZySGLR3mSoirF23SkXtgn3rh5YOq6Ks5wluqOGpe6ZUsNcepkIajX/2INQUYuEPXiNYtuBtP3KmwW07W1ZBw22G089mNcEVPd/naCnry2LZ1cfLVh/+Xd0A9j0WM+Q5GDAUfmgmZ43CbBVlPEQnEMMqOLuqzQgUXJVPB6gvrN+D9/V4ajXcORr5zj+OsE4JQMDrTTVudZXSd2uuXlDrYn/Wn7BT4vyxdFgxfQUNyiSbNrnGPWLu
+    properties :
+     x : 300
+     y : 102
+     width : 103
+     height : 14
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+ menu :
+  name : _Menu
+  identifier : 0x28c4eb86389dd573
+  internal_properties : CAAAAAgAAADAfZ27Q+jJ/MBXHLGCb7PyE2Yqjvuo9mAX2ZN+LLuyQtzms1431znXR0sNCCeLESXZp1gqmo+m2mUhb2ELR2phZ8VOgUSyXddfQyxpxffipvH/iiFuFkCLgpjx1Ah9/9/ndeRpWb0s9Qcjy8oPtW3aMcRtuglgDe5Ch9/jnC/Drp19/hhf+qz96diLw5T0yWlzg33c/E8hhMwUBdSOV69/8iDQGLfTvLoTvV3YkiQ5Dce7dxB2gUx1AVvVTykQMm7G+0haIOV568KMGgPEJluRN2XjgQ11Tb8vVxt6P2g=
+  options : []
+ languages :
+  - fr-FR
+ popup_menus : []
+ message_bar :
+  internal_properties : CAAAAAgAAAAhRE/lXye53iBehqcoJbZrDKsaXwyXwTmdaApcXqNiNCjFXZBgsi7w148k/Mqn56fLiIi0jqyQVEKQKC17KuGftViEtIzBwUaBScWzrQMZortsDwNXuV7F9WO8weSTEiE=
+ actionbar : {}
+ code_elements :
+  internal_properties : CAAAAAgAAACqrZ1d1o6O5qMNvVB3VUUglVT9DS8zPbhuYT310yIcf4CHIAM4qACnil9s5IpBQmnNdtN2Z1cAoovLic/HI48NaFa1Tg==
+  type_code : 1
+  p_codes :
+   -
+     code : |1-
+      PROCEDURE FEN_Fiche(gnIdContact=0)
+      
+      // Création ou modification
+      si gnIdContact<>0 alors
+      	// Modification d'un contact
+      	HLitRecherchePremier(CONTACT,IDCONTACT,gnIdContact)
+      	si HTrouve(CONTACT) alors
+      		// Mise en place de l'enregistrement
+      		FichierVersEcran(FEN_Fiche,CONTACT)
+      	FIN
+      SINON
+      	// Création d'un nouveau contact
+      	Hraz()				// On vide les variables correspondant à l'enregistrement	
+      	RAZ()				// On vide les champs
+      FIN
+      
+      mafenetre..ValeurRenvoyée = faux
+   -
+     type : 180
+     enabled : false
+   -
+     type : 230
+     enabled : false
+   -
+     type : 11
+   -
+     type : 12
+   -
+     type : 17
+   -
+     type : 13
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+  original_name : Fenêtre_Fiche
+resources :
+ string_res :
+  identifier : 0x3c02452a66048725
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+  strings :
+   -
+     text :
+      fr-FR : Il est nécessaire d'indiquer une adresse IP ou une adresse DNS / RRéseaupour le contact
+     index : 0
+   -
+     text :
+      fr-FR : Il est nécessaire de spécifier SOIT une adresse IP SOIT une adresse DNS / Réseau pour le contact
+     index : 1
+   -
+     text :
+      fr-FR : La saisie d'une adresse IP sous la forme XXX.XXX.XXX.XXX est obligatoire
+     index : 2
+   -
+     text :
+      fr-FR : Il est nécessaire de préciser un nom de contact
+     index : 3
+   -
+     text :
+      fr-FR : Impossible d'ajouter la fiche du contact
+     index : 4
+   -
+     text :
+      fr-FR : Impossible de modifier la fiche du contact
+     index : 5
+   -
+     text :
+      fr-FR : Fiche contact enregistrée
+     index : 6
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+rad :
+ internal_properties : CAAAAAgAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe

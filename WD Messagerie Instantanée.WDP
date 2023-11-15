@@ -1,0 +1,165 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WD Messagerie Instantanée
+ major_version : 28
+ minor_version : 0
+ type : 4097
+ description : Projet WD Messagerie Instantanée
+ subtype : 0
+project :
+ identifier : 0x0
+ internal_properties : CAAAAAgAAAAVESFIOdfRblRhw6b4YrrDNrChAKpLBWyFXTF1OPa1fxeR+LzZQZH8t6ODuH6wr89c6lbaZ8ZW8ycxN524CATz4nL5SFdnNnNxuPYLHh1IOFs7HXdrLkL3c7hFazni4CRHJpWUTxctNSZws0yHAvFbCwpyJiK+sni14rK4rQtASChXOO7eqhCOzby/c+0i5Jep1v44Ge+C19V8BJstd1j1arYJcjwW/Da8g/qHcKoUyWok2QT32z/KP3UVVL4H4cy+P+vu2w90RsQ4Go2r0y/wP7bCAT9y+Ok/o3tCfXYAvLppUiwUh4e5KECKNlL/0/ImhNyepJF+fYh6ZEa4hRjpJxT9E8ii1pvxYQ4qhA/HJPNcy5UWPB6hCeaHTpA2VxR0148okawWnoRcaL/5f6+ghN8oAnsJk/P2YEPlvkyHu+FKzNR6KrDc9nTAeVbDSpgLGp3WbVAYlvYe0yQIiAPjFwRZ7odSqAbKTK+plIBPXknUqL7+GWThIQQik6YpUsbLKu0LKrKZk637VQ756n/p7amHU/5cYpumGJDJhyvELaZLv3qB9/Wy0v1l0H5OG4VXcI1Yz8eHdlf3XnVCFwFdsu3SVDWHlPt7EPoar3phklwbhjvHfSVG1RalSkOw+eEEL4VuRlarY+E80TuOt3c621mZ76Ao8JsSbryXG3yL2Tks357UtyMgpkMfaK8//sZ3ONV8SnEbRn0vvJevmG2eMycKOtni9lBZkyU5xEoUF+rAWiQohKWu57Lpbeqs/jL7WgAC30gp8XFQM3Ri011w7QYTf2M/KZrlsXnaNfL2z/4DP6+WdR0z1FsNa43zjhUx1QP1QQjj0xGNOA2teOpLC+x+xoF5CiIwTAKetYywljrUgZ7aBjTwd50LojyU4GJJB8uOVl4b6E2k1rXSItPRWK9odUIAKTUYpTzZTHqnFHshYaFpPznuLmjt/s7shJ+E4yvvY7ZnrW+olhAIZekn8fvXACie+yabW1ltZUbN2vgv//PgVRX/KBa9FhT4r5pmcLAulF0ykeTdNcMdGW6+ONIAhl2W5UPG02w+yFlTyLMLvluo8s03UH9vganmxpOSgF6EyFZ2up317HybGQoa6QBsjwhDzODrpmmgegrkF/HTY1bcN1eLx5ob1AlFlZiRRsNmvkmBFonw+i/w04sb/GqzLBLXucbn/IQhKcXtjYdSmKvHUIK/WtgjhPDgheySggC18oeeDE8I4C/pC0V3dCLUuxMp8B1FSoelbKaiU69IKtIEAik18oUeDnCUMaR76S++jZuaE2d16EKXqJoh6cvbd+kLsN4JmDclMKUErP804O2Vn3+7stkHZ+sT56T0QEXBR5bRfJXxUzBHLlEE92uLTmKStNKgR/Pv5r2d95CuSiPQTBUi3DH69x4SkkrJeYWGTMiggyZV9WtNBKvjOftUZN7dcpSfv/Fsf9skLzBDHWmctkB4JBqvl3gMugM2s/8YXhm4Mw67h2NJgA8b8jfOHAu47hmM1n55zu9M5g/etv7SlqgDhz1vORmDctM4CNjWrCG8rEE5rcNwlcvftVUB/F026dteJjR57sxYTUrW9UrJHJXHeJUncICR0rMlOiD+RBdsfdRg7waTiKdBr27WIGjbkNuWBM6mp5lwhLjATLMh7BFyvg/xC4E/lXeNXb8Zar9BJZWdn35RK71ADvOmCA+XRlUCu/zUs8IkAW4qaOgqwc4TJSVOxu1caQ0tP+99RM363F3qvjmceD8llSseF0HfFe/6UhiWIMjEGK537B0KINT4bF/oSTH4nM7gRuiYqbJPJakjFon2a+UEFQc3uCqVLnrw4sK0uP3CGF2JzYj/J2bxmfhE7DrIcDg4RDmxCjLWlbaNblqghXKdXpsZfqlAs3usFlmvtGXZA3qi79db2X4nruYVgFOOIBV2WArpv0ox4tR+
+ configurations :
+  -
+    name : WD Messagerie Instantanee
+    internal_properties : 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
+    configuration_id : 4639423491016613976
+    type : 1
+    generation_name : WD Messagerie Instantanee.exe
+    version :
+     major_version : 21
+     internal_generation_version : 1
+     autoincrement_version : false
+    icon_filename : .\GROUPE.ICO
+    language : 1
+ elements :
+  identifier : 0x4ac482f9000f3180
+  elements :
+   -
+     name : FEN_Message
+     identifier : 0x3db5104e0c905ede
+     internal_properties : CAAAAAgAAAC1kZ2BPhsTzJtaEGhwEAntq4R29nH7lib+kFX7FzXZb0W7RE+fbfT15F5YoGCQaFigoA==
+     physical_name : .\FEN_Message.wdw
+     type : 2
+   -
+     name : Procedures globales de WD Messagerie Instantanee
+     identifier : 0x41b600830002d8c3
+     internal_properties : CAAAAAgAAABEwqyIN2xEZ3ADicWd/rj0rhOtffhZ4n+GfPBq1We1U6ENGOvy0l9eHQfxz1eJcWdR0Q==
+     physical_name : .\Procedures globales de WD Messagerie Instantanee.wdg
+     type : 7
+   -
+     name : FEN_Fiche
+     identifier : 0x3db5104a690d5ea2
+     internal_properties : CAAAAAgAAABPy6f7SHU9bnkMjvri9K/fvcqAIE/51gHETCIj41k98wUfBP/t32JjFgD6xk6CfnJa2g==
+     physical_name : .\FEN_Fiche.wdw
+     type : 2
+   -
+     name : FEN_Principale
+     identifier : 0x3db5104d39125ed4
+     internal_properties : CAAAAAgAAACc+vQgn8Rsf8iLAX1laCzQHr/lPSwmNov6DErF02kr1W+H/oVqWufmlY8J978xyT+JiQ==
+     physical_name : .\FEN_Principale.wdw
+     type : 2
+   -
+     name : COL_TESTHFSQL
+     identifier : 0x425d042301471bcf
+     internal_properties : CAAAAAgAAAB/21dLeCWNnqk8/sqSxrvrre74OA8cabZ3i2donWMz3RsxEvH9z1JTBjCqFp5SLqJq6g==
+     physical_name : .\COL_TESTHFSQL.wdg
+     type : 7
+   -
+     name : TEST_COL_TESTHFSQL
+     identifier : 0x425d043801496dc7
+     internal_properties : CAAAAAgAAADbt4OHJGFJUh3g0q42G5NL+ZTAYMViuCeL2vZZjJR+skbabRbZK7Y3OuTe2lqWYla+Rg==
+     physical_name : .\TEST_COL_TESTHFSQL.wxt
+     type : 17
+  other_elements :
+   -
+     physical_name : .\Description.rtf
+   -
+     physical_name : .\Description.gif
+  analysis : .\WD Messagerie Instantanee.ana\WD Messagerie Instantanee.wda
+  net_assemblies : []
+  uwp_api : []
+  external_components : []
+  internal_components : []
+ report_and_queries_enabled : false
+ common_generation_directory : true
+ languages :
+  - fr-FR
+ wd_style_sheet : ".\\WD Messagerie Instantanée.sty\r\n.\\WD8 Messagerie Instantanee.sty"
+ wb_style_sheet : .\WD Messagerie Instantanee.wws
+ code_elements :
+  internal_properties : CAAAAAgAAACeJ8zvvaHhwRWHGPJtnBIGN+UavgCBiNJc2yYUuLy+jQyTxeeCuzMOOZC8hRvWxTzNakk96+Zd754AiLQdmg==
+  type_code : 0
+  p_codes :
+   -
+     internal_properties : CAAAAAgAAABIsWoevybWjisZnZVvSMsDOLo3TjvnV/UNDC/7t3iPpUM0afD7+dZiWQ5FaYVU2h5uzJI+hbJJDolvDsf2BE4RaMyvdspgHFQQivvtWrEv1Lb0DhuIjS06IaZy4N/+CZ2VyN09jQ2bGwMzT9sO4sqKoZNdJ/bKz3XwbZm/V0CMNNRswgMps6Wo7twevj1GgWlu5wOauHWYf6+FCmB6HjpDzYAHisnoshX8U+R3P8yF5l1i+9vOvpgEngcIMSMWkpyN3akTDD66NTEWAt7Mn4VaBbvFrQ/lYaA=
+     code : |1+
+      GLOBAL	
+      	CONSTANT
+      		// Nom des sockets utilisées
+      		csNomSocketPresence = "SocketPresence"			// Socket permettant de détecter la présence d'un utilisateur
+      		csNomSocketRequete = "SocketRequete"			// Socket permettant d'effectuer des demandes de présence
+      		
+      		// Numéros de ports associés aux sockets
+      		cnPortSocketPresence = 5010					// Port associé à la socket csNomSocketPresence
+      		cnPortSocketRequete = 5011					// Port associé à la socket csNomSocketRequete
+      		
+      		// Message du protocole
+      		csACKOK = "OK"								// Message de confirmation
+      		csNONDISPO = "NON_DISPO"						// Utilisateur non disponible
+      		csFINCOM = "DEMANDE_ARRET"					// Demande de fin de communication
+      		csREQ = "REQ"								// Requete de connexion
+      	FIN
+      
+      hgererep(faux)
+      
+      //
+      // Transfert des fichiers en local si on est sur un disque réseau
+      //
+      si fDisqueInfo(fExtraitChemin(frepexe(),fDisque),fdTypeDisque) = fdRéseau ou RéseauNomRep(fExtraitChemin(frepexe(),fDisque)) <> "" alors
+      		
+      	// génère un répertoire local
+      	gsRepFichiers est une chaine = completerep(sysrep(srAppDataLocal)) + ProjetInfo(piConfiguration) + "\"
+      	
+      	// crée le répertoire
+      	frepcree(gsRepFichiers)
+      	
+      	// Modifie le chemin des fichiers de données
+      	HSubstRep("*", gsRepFichiers)
+      FIN
+      
+      // Création du fichier des contacts si nécessaire
+      HCréationSiInexistant(CONTACT)						
+      
+      // Ouverture de la socket de présence
+      OuvertureSocketPresence()
+      
+      // On gère les threads en manuels (chaque procédure n'est pas une section critique)
+      ThreadMode(threadSectionCritique)
+     type : 196608
+   -
+     internal_properties : CAAAAAgAAABKtXZQVT6tyBc2O8Y+U4Qrb3itwYAR7D6lOwdbCYsOwwv40B3BmXfXwoIz6UG+99iTSAPLvxfr6ul+HLcRYvlt/smcKdS4aYbHv1xCl1LX3/QTRk+/jxPhYQupGEZxdGsw94UpEXtg6XqTuw==
+     code : |1-
+      // Fermetures de la socket de présence
+      FermetureSocketPresence()
+     type : 196610
+   -
+     type : 196621
+   -
+     type : 196627
+     enabled : false
+  orphans :
+   -
+     name : WD Messagerie Instantanee
+     identifier : 0x4ac482f900143316
+     code_elements :
+      type_code : 159
+      p_codes : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+rad :
+ internal_properties : CAAAAAgAAABhIL0UXeZmxDJxY3Xy0Q==
+project_explorer :
+ explorer_type : project
+resources :
+ string_res :
+  identifier : 0x0
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+  strings :
+   -
+     text :
+      fr-FR : Démo
+     index : 0
+custom_note :
+ internal_properties : CAAAAAgAAAAd98VSJfHHqE3P0QHwrwdhn7ig8dWBR6valpUTgnAMTVXiDg==
